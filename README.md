@@ -1,3 +1,3 @@
-# Design-Pattern
+# Design-Patterns
 
 1
